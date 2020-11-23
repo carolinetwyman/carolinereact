@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name":"Caroline Twyman",
+    "occupation":"Solutions Consultant",
+    "description":"Creative Problem-Solver experienced in building Supply-Chain solutions.",
+    "image":"profilepic.jpg",
+    "bio":"Coming from the fast-paced logistics industry, I am able to implement and communicate creative solutions to important problems. I am a team player experienced in multiple tech stacks and adaptable to new technologies.",
+    "contactmessage":"Please reach out to connect!",
+    "email": "carolinetwyman@gmail.com",
+    "phone": "914-645-8301",
+    "address":{
+      "street":"1150 N Lake Shore Dr",
+      "city":"Chicago",
+      "state":"IL",
+      "zip": "60611"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/caroline-t-7233014b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/carolinetwyman",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Northwestern",
+        "degree":"Web Development Certificate",
+        "graduated":"December 2020",
+        "description":"I learned the MERN stack of web development."
+      },
+      {
+        "school":"Boston University",
+        "degree":"Psychology, Visual Arts",
+        "graduated":"2012",
+        "description":"I was interested in all things related to the human condition, from studying the brain to painting oil portraits"
+      }
+    ],
+    "work":[
+      {
+        "company":"Redwood Logistics",
+        "title":"Solutions Consultant",
+        "years":"Nov 2018 - Present",
+        "description":"Design and build supply chain, transportation management, and accounting solutions using AWS, Azure, EDI, XML, FTP, AS2. Key in migrating processes to React Framework Enterprise Management platform."
+      },
+      {
+        "company":"Coyote Logistics",
+        "title":"EDI Developer",
+        "years":"January 2013 - Nov 2018",
+        "description":"Developed EDI conenctions between carriers, companies, warehouses, and accounting parties"
+      }
+    ],
+    "skills":[
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"EDI",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"habitude",
+        "category":"An intuitive app to help you form habits",
+        "image":"canadian-wanderlust.jpg",
+        "url":"http://habitudeapp.herokuapp.com/"
+      },
+      {
+        "title":"Informed Trades",
+        "category":"A dynamic site to search articles on stocks, so you can build your portfolio intelligently.",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://carolinetwyman.github.io/Informed_Trades"
+      },
+      {
+        "title":"Workday Scheduler",
+        "category":"An easy to use time-blocking app that allows you to schedule your day today, and keep a routine tomorrow.",
+        "image":"original-thai-food.jpg",
+        "url":"https://carolinetwyman.github.io/TimeBlockingApp"
+      },
+      {
+        "title":"Employee Management System",
+        "category":"This Project is a dynamic CLI app designed to create employee profiles for an organization.",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/carolinetwyman/EmployeeManagementSystem"
+      },
+      {
+        "title":"Random Password Generator",
+        "category":"A useful tool that allows you to generate a strong random password so all of you and your clients information is secure.",
+        "image":"password.jpg",
+        "url":"https://carolinetwyman.github.io/PasswordGeneratorFinal/"
+      },
+      {
+        "title":"Burger App",
+        "category":"An app showcasing MVC design to help you create and consume yummy burgers",
+        "image":"resume-website.jpg",
+        "url":"https://cryptic-basin-40463.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Caroline's so good at coding, it's nothing but Web.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"Caroline's name rhymes with my name'",
+        "user":"Richard Feynman"
+      }
+    ]
+  }
+}
