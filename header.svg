@@ -53,7 +53,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(-45deg, #f7cd72, #960e10, #610e0f);
+					background: linear-gradient(-45deg, #f7ed63, #960e10, #610e0f);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -72,7 +72,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+					animation: rotate ease-in-out 3s infinite alternate;
 				}
 
 				p {
@@ -82,7 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<h1>Dynamic Wines</h1>
 				<p>Click to see the source</p>
 			</div>
 		</div>
