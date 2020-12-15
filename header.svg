@@ -83,7 +83,21 @@
 			</style>
 			<div class="container">
 				<h1>Dynamic Wines</h1>
-				<p>Click to see the source</p>
+			</div>
+			</div>
+				<p>Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist. You can filter your establishment's wine list by color or country, see it on a map, and click on a bottle to see tasting notes.</p>
+				<p>Alcohol abuse is dangerous for health, consume with moderation</p>
+				<h3> Technologies Used <h3>
+				<a href="/images/240px-JavaScript-logo.png">
+<a href="/images/200px-React-icon.svg.png">
+<a href="/images/200px-Google_Maps_icon.svg.png">
+<a href="/images/200px-MongoDB_Logo.svg.png">
+<a href="/images/200px-Node.js_logo.svg.png">
+				<h3>>Special Gotchas of your projects</h3>
+				<p>Coding google maps, filters, CRUD operations, UI/UX, deploying to Heroku, mastering >100 Github commits, and  Passport.js authentication were each personal mountains. The group had to restart two separate times. On the bright side, each failure WAS accompanied by learning.</p>
+				<h3>Technical Description of your project like- Installation, Setup, How to contribute.</h3>
+				<p>>From the command line, type "git clone https://github.com/carolinetwyman/dynamicwine.git". Then type "npm install," and "npm start."</p>
+				<p>To add wines, you have 3 options: 1) use our dummy list by typing "npm run seed." 2) Alternatively, you can manually enter a wine list into scripts/seedDB.js followed by "npm run seed." 3) Or enter them through the website, using the winefinder and clicking submit for each wine.</p>
 			</div>
 		</div>
 	</foreignObject>
