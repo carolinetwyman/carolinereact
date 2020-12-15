@@ -91,10 +91,10 @@
 			</style>
 			<div class="container">
 				<h1 class="title">Dynamic Wines</h1>
-				<p class="link">Click to see the source</p>
-				<p class="body">More text test</p>
-				<h3 class="section">Paragraph Test</h1>
-				<p class="body">More text test</p>
+					<p class="link">Click to see the source</p>
+				<h3 class="section">Paragraph Test</h3>
+					<p class="body">More text test</p>
+					<p class="body">More text test</p>
 			</div>
 		</div>
 	</foreignObject>
