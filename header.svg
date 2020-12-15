@@ -88,11 +88,6 @@
 				<p>Welcome to Dynamic Wine, the app that allows restaurants to select the perfect bottles for their unique winelist. You can filter your establishment's wine list by color or country, see it on a map, and click on a bottle to see tasting notes.</p>
 				<p>Alcohol abuse is dangerous for health, consume with moderation</p>
 				<h3> Technologies Used <h3>
-				<a href="/images/240px-JavaScript-logo.png">
-<a href="/images/200px-React-icon.svg.png">
-<a href="/images/200px-Google_Maps_icon.svg.png">
-<a href="/images/200px-MongoDB_Logo.svg.png">
-<a href="/images/200px-Node.js_logo.svg.png">
 				<h3>>Special Gotchas of your projects</h3>
 				<p>Coding google maps, filters, CRUD operations, UI/UX, deploying to Heroku, mastering >100 Github commits, and  Passport.js authentication were each personal mountains. The group had to restart two separate times. On the bright side, each failure WAS accompanied by learning.</p>
 				<h3>Technical Description of your project like- Installation, Setup, How to contribute.</h3>
